@@ -1,0 +1,10 @@
+bu_rightcorner,0,0,75,75
+bu_top,0,76,75,75
+bu_leftcorner,76,0,75,75
+bu_right,76,76,75,75
+bu_middle,0,152,75,75
+bu_left,76,152,75,75
+
+p_right,152,0,75,75
+p_middle,152,76,75,75
+p_left,152,152,75,75
